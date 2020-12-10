@@ -1,0 +1,9 @@
+.card_recette{
+display: inline-flex;
+}
+
+.card_recette img {
+width: 550px;
+padding: 20px;
+border-radius: 4px;
+}
